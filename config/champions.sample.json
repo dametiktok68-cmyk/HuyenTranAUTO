@@ -1,0 +1,39 @@
+{
+  "champions": [
+    {
+      "name": "Vayne",
+      "cost": 2,
+      "traits": ["Duelist", "Sentinel"],
+      "tier_priority": 1,
+      "roles": ["core", "carry"]
+    },
+    {
+      "name": "Riven",
+      "cost": 3,
+      "traits": ["Edgelord", "Chrono"],
+      "tier_priority": 2,
+      "roles": ["core"]
+    },
+    {
+      "name": "Morgana",
+      "cost": 3,
+      "traits": ["Witchcraft"],
+      "tier_priority": 3,
+      "roles": ["flex"]
+    },
+    {
+      "name": "Ashe",
+      "cost": 4,
+      "traits": ["Sniper"],
+      "tier_priority": 2,
+      "roles": ["carry"]
+    },
+    {
+      "name": "Garen",
+      "cost": 4,
+      "traits": ["Sentinel"],
+      "tier_priority": 4,
+      "roles": ["flex"]
+    }
+  ]
+}
